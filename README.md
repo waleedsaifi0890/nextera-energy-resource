@@ -1,8 +1,9 @@
 <p align="center">
   <a href="">
-    <img alt="NextEra Energy Resource" title="NextEra Energy Resource" src="https://en.m.wikipedia.org/wiki/File:NextEra_Energy_logo_%281%29.svg">
+    <img alt="NextEra Energy Resource" title="NextEra Energy Resource" src="https://example.com/path-to-your-image.png">
   </a>
 </p>
+
 
 # NextEra Energy Resource
 
