@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="NextEra Energy Resource" title="NextEra Energy Resource" src="https://example.com/path-to-your-image.png">
+    <img alt="NextEra Energy Resource" title="https://upload.wikimedia.org/wikipedia/en/4/44/NextEra_Energy_Resources_logo.svg">
   </a>
 </p>
 
