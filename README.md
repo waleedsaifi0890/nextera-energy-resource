@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="NextEra Energy Resource" title="NextEra Energy Resource" src="https://media.licdn.com/dms/image/C4D0BAQGL9jTdFlKHoQ/company-logo_200_200/0/1601399945227?e=2147483647&v=beta&t=lO1KqQ3fT4yYkyXJUZlc-KbEMBozRtoizpmh9hN4JQ0">
+    <img alt="NextEra Energy Resource" title="NextEra Energy Resource" src="https://en.m.wikipedia.org/wiki/File:NextEra_Energy_logo_%281%29.svg">
   </a>
 </p>
 
