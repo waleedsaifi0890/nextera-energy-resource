@@ -23,7 +23,7 @@
 
 ## Introduction
 
-This repo holds the website for https://explore.wxllspace.com. The website is built with:
+This repo holds the website for https://nexteraenergy.com. The website is built with:
 
   [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)](https://www.typescriptlang.org/)
