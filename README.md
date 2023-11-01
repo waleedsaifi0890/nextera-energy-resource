@@ -30,10 +30,11 @@ This repo holds the website for https://nexteraenergy.com. The website is built 
   [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.ecma-international.org/ecma-262/6.0/)
   [![Next.js](https://img.shields.io/badge/Next.js-12.x-lightgrey)](https://nextjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-16.x-green)](https://nodejs.org/)
-  [![HTML 5](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5)] 
-  [![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazon-aws)] 
-  [![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest)] 
-  [![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)] 
+  [![HTML 5](https://img.shields.io/badge/HTML-5-orange)](https://www.w3.org/TR/html52/)
+  [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
+  [![Jest](https://img.shields.io/badge/Jest-Testing-red)](https://jestjs.io/)
+  [![CSS3](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
+
 
 
 NextEra Energy is the world's largest utility company, and we're proud to be built and based in America. It has been powering America's energy future since 1925, when one of the greatest land booms created a demand for electricity.
